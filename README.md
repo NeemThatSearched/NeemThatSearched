@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I`m currently working on my first big project, - ai assistant inside of your phone, just like siri... but a little bit smarter. 🔭<br><br>👯 I`m looking to caloborate with newie people like me 👯<br><br>🤝 I`m looking for help with c++ 🤝<br><br>🌱 I`m currently learning flutter fw 🌱<br> <br>💬 Ask me about anything about tg bots 💬<br>
+🔭 I`m currently working on my first big project, - ai assistant inside of your phone, just like siri... but a little bit smarter. 🔭
+
+👯 I`m looking to caloborate with newie people like me 👯
+
+🤝 I`m looking for help with c++ 🤝
+
+🌱 I`m currently learning flutter fw 🌱
+
+💬 Ask me about anything about tg bots 💬
 
 
 # 💻 Tech Stack:
